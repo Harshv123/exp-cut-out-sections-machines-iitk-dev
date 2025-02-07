@@ -21,3 +21,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Kajal Yadav | student | Electrical Engineering | Rajkiya Engineering College Banda | ykajal2002@gmail.com
 2 | Akanksha Pal | student | Information Technology | Rajkiya Engineering College Banda | akanksha.r.pal@gmail.com
+3 | Harsh Verma | student | Electrical Engineering | Rajkiya Engineering College Banda | harshv1000@gmail.com
