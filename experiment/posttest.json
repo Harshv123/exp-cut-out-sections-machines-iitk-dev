@@ -10,10 +10,10 @@
         "d": "Reduce rapidly"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Not correct",
+        "b": "Not correct",
         "c": "To maintain the voltage at a constant value.",
-        "d": "Explanation 2"
+        "d": "Not correct"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -28,9 +28,9 @@
       },
       "explanations": {
         "a": "The relative speed between rotor magnetic field and stator conductors is slip speed and hence the frequency of induced e.m.f is equal to slip frequency.  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Not correct",
+        "c": "Not correct",
+        "d": "Not correct"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "stainless steel"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Not correct",
+        "b": "Not correct",
         "c": "The frame of an induction machine made of cast iron. The power factor of an induction motor depends upon the air gap between stator and rotor.",
-        "d": "Explanation 2"
+        "d": "Not correct"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Starting from speed axis and constant"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Not correct",
+        "b": "Not correct",
         "c": "Speed-torque characteristic falls as torque increases, because armature reaction causes decrease in flux whose square is in inverse proportion with speed, causing decrease in speed rapidly compare to increase in torque.",
-        "d": "Explanation 2"
+        "d": "Not correct"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -79,11 +79,11 @@
       },
       "explanations": {
         "a": "The average torque developed in the synchronous motor is zero.  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Not correct",
+        "c": "Not correct ",
+        "d": "Not correct"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
